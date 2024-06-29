@@ -51,3 +51,14 @@ console.log(sum(110, 200));
 //   type === "C" ? (temp = ((temp - 32) / 9) * 5) : (temp / 5) * 9 + 32;
 
 //console.log(tempconv(60, ""));
+// const laptop = {
+//   model: "Apple",
+//   name: "m1 pro",
+//   modelYear: 2021,
+//   age: () => {
+//     return 2024 - this.modelYear;
+//   },
+//   fullname: function () {
+//     return model + this.name;
+//   },
+// };
